@@ -1,0 +1,5 @@
+{
+  "name": "MUTU - IGD",
+  "description": "Sistem manajemen data pasien rumah sakit dengan analisis waktu tunggu (LOS) dan kinerja layanan berbasis AI.",
+  "requestFramePermissions": []
+}
